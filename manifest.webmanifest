@@ -1,0 +1,24 @@
+{
+  "name": "Godofredo — Personal Operating System",
+  "short_name": "Godofredo",
+  "start_url": "Godofredo.html",
+  "display": "standalone",
+  "background_color": "#07101d",
+  "theme_color": "#07101d",
+  "orientation": "portrait",
+  "description": "Godofredo Personal Operating System",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
